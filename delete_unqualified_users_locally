@@ -13,7 +13,8 @@ def remove_rows_with_xuan(file_path, sheet_name=0, output_file="G:/Keelworks/Kee
                 'github.admin@keelworks.org', 'admin@keelworks.org', 'newsletter@keelworks.org',
                 'op.admin@keelworks.org', 'q4dummy4@keelworks.org', 'q2dummy2@keelworks.org', 
                 'q3dummy3@keelworks.org', 'script.admin@keelworks.org', 'teamgantt-admin@keelworks.org',
-                'unsubscribe@keelworks.org', 'volunteer.coordinator@keelworks.org', 'funding@keelworks.org'
+                'unsubscribe@keelworks.org', 'volunteer.coordinator@keelworks.org', 'funding@keelworks.org',
+                'info@keelworks.org'
             ]
             
             # Remove rows where 'Email Address [Required]' is in the list
