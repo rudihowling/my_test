@@ -15,4 +15,4 @@ Steps to use this script:
     Modify script’s row 33 – the path of [a file]
 
 
-The active users will be generated to [b file]
+The Active User Roster will be generated to [b file]
